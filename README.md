@@ -1,1 +1,1 @@
-# Aws Kinesis Data Stream example
+Aws Kinesis Data Stream example
